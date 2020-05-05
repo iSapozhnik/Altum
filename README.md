@@ -1,1 +1,1 @@
-![](Resources/altum_social_media_white.png)
+![](Resources/altum_social_white.png)
